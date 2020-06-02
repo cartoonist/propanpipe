@@ -1,0 +1,9 @@
+name: vapid
+dependencies:
+- python >=3.5
+- bioconda::blast
+- bioconda::mafft
+- pip
+- pip:
+  - numpy
+  - biopython
