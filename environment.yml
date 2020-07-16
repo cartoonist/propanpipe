@@ -3,6 +3,7 @@ dependencies:
 - python >=3.5
 - bioconda::blast
 - bioconda::mafft
+- bioconda::tbl2asn
 - pip
 - pip:
   - numpy
